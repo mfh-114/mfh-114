@@ -2,7 +2,7 @@
      performing family duties as a father and husband. Github projects are my pet projects. 
      Most of the projects are not done completely because of long vacation. I am trying to catch up.  
 - 👀 I’m interested in web application programming. In my day job, I use Java, JBoss/WildFly, SQL and JavaScript last but not least Git. 
-- 🌱 I’m currently learning Struts2 and Angular, I know Struts2 is no longer popular framework anymore. Everybody prefer Spring. However, it is my bread and butter now.
+- 🌱 I’m currently learning Struts2 and Angular. 
 - 📫 You can reach me by myappworld114 at gmail.com. 
 
 <!---
